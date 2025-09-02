@@ -60,7 +60,7 @@ I enjoy working with modern technologies and continuously learning to improve my
 ---
 
 ## 📫 Connect With Me
-[![Outlook Email](https://img.shields.io/badge/Email-your--email@outlook.com-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:koketso_r@outlook.com)
+[![Outlook Email](https://img.shields.io/badge/koketso_r@outlook.com-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:koketso_r@outlook.com)
 
 <!--
 **kokets/Kokets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

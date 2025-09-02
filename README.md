@@ -24,6 +24,12 @@ Azure · Docker · GitHub Actions · CI/CD · Git
 
 ---
 
+## 🔭 What I'm Working On
+- 🌐 **Enterprise web platforms** with modular architectures  
+- 🔄 **Workflow automation systems** (approvals, reporting, dashboards)  
+- 🚛 **Digital platforms** for industries like HR and logistics  
+- ⚡ **API-driven solutions** with microservices and gateways  
+- ☁️ **Cloud deployment & scaling** with Azure and Docker  
 
 ## 📊 GitHub Stats
 ![Koketso's GitHub stats](https://github-readme-stats.vercel.app/api?username=kokets&show_icons=true&theme=radical)  
